@@ -1,4 +1,4 @@
-# FinNLP-JF-ICR Ebisu
+# FinNLP-JF-ICR Daikoku Solution
 
 Solves and evaluates the EBISU **JF-ICR** (Japanese Financial Implicit
 Communication Recognition) subtask: given a Japanese financial Q&A pair,
