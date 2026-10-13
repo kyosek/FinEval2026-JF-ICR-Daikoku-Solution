@@ -1,6 +1,4 @@
-# FinNLP-Japanese
-
-## JF-ICR
+# FinNLP-JF-ICR Ebisu
 
 Solves and evaluates the EBISU **JF-ICR** (Japanese Financial Implicit
 Communication Recognition) subtask: given a Japanese financial Q&A pair,
