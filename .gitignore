@@ -1,5 +1,6 @@
 .DS_Store
 .vscode/
+.claude/
 
 # Benchmarking pipeline: large binaries/models/outputs, not source
 /runtime/
